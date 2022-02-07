@@ -1,0 +1,15 @@
+D:\VS19\Game\Snake\bin\Release\netcoreapp3.1\Snake.exe
+D:\VS19\Game\Snake\bin\Release\netcoreapp3.1\Snake.deps.json
+D:\VS19\Game\Snake\bin\Release\netcoreapp3.1\Snake.runtimeconfig.json
+D:\VS19\Game\Snake\bin\Release\netcoreapp3.1\Snake.runtimeconfig.dev.json
+D:\VS19\Game\Snake\bin\Release\netcoreapp3.1\Snake.dll
+D:\VS19\Game\Snake\bin\Release\netcoreapp3.1\Snake.pdb
+D:\VS19\Game\Snake\obj\Release\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+D:\VS19\Game\Snake\obj\Release\netcoreapp3.1\Snake.Form1.resources
+D:\VS19\Game\Snake\obj\Release\netcoreapp3.1\Snake.csproj.GenerateResource.cache
+D:\VS19\Game\Snake\obj\Release\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+D:\VS19\Game\Snake\obj\Release\netcoreapp3.1\Snake.AssemblyInfo.cs
+D:\VS19\Game\Snake\obj\Release\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+D:\VS19\Game\Snake\obj\Release\netcoreapp3.1\Snake.dll
+D:\VS19\Game\Snake\obj\Release\netcoreapp3.1\Snake.pdb
+D:\VS19\Game\Snake\obj\Release\netcoreapp3.1\Snake.genruntimeconfig.cache
